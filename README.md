@@ -1,4 +1,4 @@
-# Automated Delights
+# [Automated Delights](https://automateddelights.com/)
 
 This landing page is designed to promote and provide information about our vending machine services. The page showcases the benefits of having a vending machine, the convenience it offers, and the products available.
 
